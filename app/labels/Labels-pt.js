@@ -1,0 +1,31 @@
+Ext.define('NereaML.locale.pt.Labels', {
+	override: 'NereaML.view.Labels',
+	buttonAlta: 'Adicionar',
+	buttonEditar: 'Editar',
+	buttonBorrar: 'Excluir',
+	error:'Erro',
+	desErrorServer:'Ocorreu um erro no servidor.',
+	informacion:'Informação',
+	desInfSelReg:'Você deve selecionar um registro',
+	desInfAddUser:'Você deve adicionar um usuário',
+	desInfoEliminar:'¿Deseja excluir o registro?',
+    titleTablaPersonal: 'Lista de Usuários',
+    Nombre:'Nombre',
+    Email:'Email',
+    Telefono:'Teléfono',
+    tab:{
+    	user:'Usuários',
+    	edit:'Forma',
+    	detalle:'Perfil'
+    },
+    fecAlta:'Data Alta',
+    fecModificacion:'Modificação da Data',
+    saldo:'Equilíbrio',
+    progressbarUp:'...Fazendo upload...',
+    progressbar_100:'...Terminado...',
+    login:'Entrar',
+    Password:'Senha',
+    InciarSesion:'Faça login em sua conta',
+    CrearCuenta:'Criar uma conta',
+    Registrar:'Registre-se'
+});

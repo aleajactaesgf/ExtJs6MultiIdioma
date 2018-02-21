@@ -1,0 +1,31 @@
+Ext.define('NereaML.locale.de.Labels', {
+	override: 'NereaML.view.Labels',
+    buttonAlta: 'Hinzufügen',
+    buttonEditar: 'Bearbeiten',
+	buttonBorrar: 'Löschen',
+    error:'Fehler',
+    desErrorServer:'Auf dem Server ist ein Fehler aufgetreten.',
+    informacion:'Informationen',
+	desInfSelReg:'Sie müssen einen Datensatz auswählen',
+	desInfAddUser:'Sie müssen einen Benutzer hinzufügen',
+	desInfoEliminar:'¿Möchten Sie den Datensatz löschen?',
+    titleTablaPersonal: 'Liste der Benutzer',
+    Nombre:'Name',
+    Email:'E-Mail',
+    Telefono:'Telefon',
+    tab:{
+    	user:'Benutzer',
+    	edit:'Form',
+    	detalle:'Profil'
+    },
+    fecAlta:'Datum Hoch',
+    fecModificacion:'Datumsänderung',
+    saldo:'Balance',
+    progressbarUp:'...Hochladen...',
+    progressbar_100:'...Fertig...',
+    login:'Anmeldung',
+    Password:'Passwort',
+    InciarSesion:'Melden Sie sich bei Ihrem Konto an',
+    CrearCuenta:'Konto erstellen',
+    Registrar:'Registrieren'
+});
